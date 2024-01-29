@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "@radix-ui/themes": "^2.0.3"
+    "@radix-ui/themes": "^2.0.3",
+    "easymde": "^2.18.0",
+    "react-simplemde-editor": "^5.2.0"
   }
 }
